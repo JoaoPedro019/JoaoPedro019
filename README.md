@@ -1,6 +1,6 @@
 ## Olá eu sou o João Pedro
 
-- 🧰 Hoje trabalho como Jovem Aprendiz na área de PeopleOPS.
+- 🧰 Estou a Procura de uma oportunidade como Desenvolvedor Junior.
 - 📚 Estou estudando Programação pelo Curso da ONE - Oracle Next Education + Alura.
 - 💬 Contate-me por joao17042003@gmail.com.
 <div>
