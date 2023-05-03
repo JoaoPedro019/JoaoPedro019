@@ -1,7 +1,8 @@
 ## Olá eu sou o João Pedro
 
-- 🧰 Estou a Procura de uma oportunidade como Desenvolvedor Junior.
-- 📚 Estou estudando Programação pelo Curso da ONE - Oracle Next Education + Alura.
+- 🧰 Estou a Procura de uma oportunidade como Desenvolvedor Front-End Junior e Estágio.
+- 📚 Atualmente estou cursando Engenharia de Software - Unicesumar.
+- 📚 Já participei da ONE - Oracle Next Education + Alura.
 - 💬 Contate-me por joao17042003@gmail.com.
 <div>
   <a href="https://github.com/JoaoPedro019">
