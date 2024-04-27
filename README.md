@@ -1,7 +1,7 @@
 ## Olá eu sou o João Pedro
 
 - 🧰 Estou a Procura de uma oportunidade como Desenvolvedor Front-End Junior e Estágio.
-- 📚 Atualmente estou cursando Engenharia de Software - Unicesumar.
+- 📚 Atualmente estou cursando Sistemas da Informação - Impcata.
 - 📚 Já participei da ONE - Oracle Next Education + Alura.
 - 💬 Contate-me por joao17042003@gmail.com.
 <div>
@@ -11,7 +11,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="João-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="João-Js" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)">
   <img align="center" alt="João-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="João-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
