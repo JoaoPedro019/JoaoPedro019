@@ -2,7 +2,7 @@
 
 - 🧰 Sou Estagiário de desenvolvimento FullStack no CIEE
 - 🧰 Estou a Procura de uma oportunidade como Desenvolvedor Front-End Junior.
-- 📚 Atualmente estou cursando Sistemas da Informação - Impcata.
+- 📚 Atualmente estou cursando Sistemas da Informação - Impacta.
 - 📚 Já participei da ONE - Oracle Next Education + Alura.
 - 💬 Contate-me por joao17042003@gmail.com.
 <div>
