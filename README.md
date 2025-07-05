@@ -1,28 +1,86 @@
-## Olá eu sou o João Pedro
+# 👋 Olá, eu sou o João Pedro!
 
-- 🧰 Sou Estagiário de desenvolvimento FullStack no CIEE
-- 🧰 Estou a Procura de uma oportunidade como Desenvolvedor Front-End Junior.
-- 📚 Atualmente estou cursando Sistemas da Informação - Impacta.
-- 📚 Já participei da ONE - Oracle Next Education + Alura.
-- 💬 Contate-me por joao17042003@gmail.com.
-<div>
-  <a href="https://github.com/JoaoPedro019">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro019&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro019&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+🎓 Estudante de **Sistemas de Informação** na Faculdade Impacta  
+💻 Estagiário em **Desenvolvimento Full Stack**  
+🌱 Apaixonado por tecnologia, boas práticas de código e soluções que impactam usuários.
 
-<div style="display: inline_block"><br>
-   <img align="center" alt="João-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="João-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="João-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="João-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
-   <img align="center" alt="João-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-   <img align="center" alt="João-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg">
-   <img align="center" alt="João-VS-CODE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  </div>
-  
-  ##
-  
-  <div>
-  <a href = "mailto:joao17042003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+---
+
+## 🧠 Habilidades Técnicas
+
+**Linguagens & Frameworks**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
+
+**Ferramentas & DevOps**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+**Banco de Dados & Outros**  
+SQL | Oracle | Maven | CI/CD | Microservices
+
+---
+
+## 💼 Experiência Profissional
+
+### 🧩 Estagiário em Desenvolvimento Full Stack  
+**CIEE | Fev 2024 - Atual | São Paulo - SP**
+
+- 🧱 Criação de componentes dinâmicos em Angular com RxJS para melhor UX.
+- 🔄 Integração de front-end Angular com APIs Spring Boot.
+- ⚙️ Desenvolvimento de serviços RESTful escaláveis e seguros com boas práticas de OOP.
+- 🧪 Testes automatizados com Cypress e Postman.
+- 🧬 Controle de versionamento de banco SQL/Oracle.
+- 📜 Automatização de tarefas e desenvolvimento de scripts internos.
+
+### 🧑‍💼 Jovem Aprendiz - Recursos Humanos  
+**KAVAK | Dez 2021 - Jan 2023 | São Paulo - SP**
+
+- Suporte aos processos de admissão e benefícios.
+- Participação na implementação de sistema digital de admissões.
+- Controle de planilhas e envio de contratos.
+
+---
+
+## 📚 Formação Acadêmica
+
+**Bacharelado em Sistemas de Informação**  
+Faculdade Impacta — Início em 2024
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🔹 [Tech Innovation](https://github.com/joaopedro/tech-innovation)
+> Site institucional de soluções digitais  
+**Stack**: Angular 17  
+**Destaques**: Responsividade, formulário funcional, layout moderno.  
+🔗 [Visualizar Projeto](https://tech-innovation.vercel.app)
+
+---
+
+### 🌦️ [Weather App](https://github.com/joaopedro/weather-app)
+> Aplicativo de previsão do tempo com API externa  
+**Stack**: Angular, RxJS, SCSS  
+**Destaques**: Busca por cidade, design clean e rotas organizadas.  
+🔗 [Visualizar Projeto](https://weather-app.vercel.app)
+
+---
+
+### 🔐 [Login TechSphere](https://github.com/joaopedro/login-techsphere)
+> Sistema completo de login com autenticação JWT  
+**Stack**: Angular, Spring Boot, Spring Security  
+**Destaques**: Autenticação segura, integração front-back, proteção de rotas.
+
+---
+
+## 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:seu@email.com)
